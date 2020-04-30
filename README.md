@@ -1,2 +1,2 @@
-# vanilla-js-dom-practice
-this is a  small JavaScript DOM manipulation project I've made because I felt I need more time practicing this subject to support my react.js learning process
+# JavaScript-DOM-Tutorial
+All course files for the JavaScrip DOM Tutorials on The Net Ninja YouTube channel.
